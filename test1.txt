@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is B21B-7D0D
+
+ Directory of C:\Users\kuppa\Desktop\myproject
+
+29-04-2020  13:40    <DIR>          .
+29-04-2020  13:40    <DIR>          ..
+29-04-2020  13:40                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  1,789,484,003,328 bytes free
